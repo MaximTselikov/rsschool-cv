@@ -1,4 +1,3 @@
 # Maxim Tselikov
+## contacts: email: f.green.ftw@gmail.com; tel:+79990877655
 
-##contacts: email: f.green.ftw@gmail.com
-##tel:+79990877655
