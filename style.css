@@ -14,3 +14,22 @@ table.border td, table.border th {
 table.border th {
     background: #e0e0e0;
 }
+td {
+	width: 100px;
+	height: 30px;
+}
+h2 {
+	text-align: center;
+}
+td {
+    text-align: center;
+}
+h3 {
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
+figure {
+    text-align: center;
+  }
